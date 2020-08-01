@@ -1,34 +1,36 @@
-# E–±Œo—ð‘
+# è·å‹™çµŒæ­´æ›¸
 
-## Šî–{î•ñ
+## åŸºæœ¬æƒ…å ±
 
 |key|value|
 |---|-----|
-|–¼‘O|—é–Ø «‘å|
-|‹’“_|_“ÞìŒ§ ‰¡•lŽs|
+|åå‰|éˆ´æœ¨ å°†å¤§|
+|å¹´é½¢|27æ­³|
+|æ‹ ç‚¹|ç¥žå¥ˆå·çœŒ æ¨ªæµœå¸‚|
 
-## ‹Zp
-### Œ¾Œê
+## æŠ€è¡“
+### è¨€èªž
 Java | JavaScript | Kotlin
 
 
-### ƒtƒŒ[ƒ€ƒ[ƒN“™
+### ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ç­‰
 Spring Boot | JUnit | ZK Framework | Vue.js
 
 ### RDBMS
 MySQL | PostgreSQL
 
-### ƒNƒ‰ƒEƒh
+### ã‚¯ãƒ©ã‚¦ãƒ‰
 AWS
 
 ### SaaS/PaaS
 GitHub | BitBucket | Backlog
 
-### ‚»‚Ì‘¼
+### ãã®ä»–
 Apache | Tomcat | Jenkins | Docker | Kubernetes
 
-## E–±Œo—ð
+## è·å‹™çµŒæ­´
 
-### 2019/07 - Œ»Ý : Š”Ž®‰ïŽÐƒ‰ƒNƒXƒp[ƒgƒi[ƒY
+### 2019/07 - ç¾åœ¨ : æ ªå¼ä¼šç¤¾ãƒ©ã‚¯ã‚¹ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼ã‚º
 
-E–± : ƒT[ƒo[ƒTƒCƒhƒGƒ“ƒWƒjƒA
+è·å‹™ : ã‚µãƒ¼ãƒãƒ¼ã‚µã‚¤ãƒ‰ã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢
+è¶£å‘³ã§Androidã‚¢ãƒ—ãƒªã®é–‹ç™ºã‚‚è¡Œã£ã¦ã„ã¾ã™ã€‚
