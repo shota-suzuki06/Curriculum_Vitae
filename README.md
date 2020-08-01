@@ -33,4 +33,3 @@ Apache | Tomcat | Jenkins | Docker | Kubernetes
 ### 2019/07 - 現在 : 株式会社ラクスパートナーズ
 
 職務 : サーバーサイドエンジニア
-趣味でAndroidアプリの開発も行っています。
