@@ -10,8 +10,7 @@
 
 ## 技術
 ### 言語
-Java | JavaScript | Kotlin | Python
-
+Java | JavaScript | Kotlin | Python | HTML/CSS
 
 ### フレームワーク等
 Spring Boot | JUnit | ZK Framework | Vue.js
