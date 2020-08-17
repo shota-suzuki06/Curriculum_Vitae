@@ -10,7 +10,7 @@
 
 ## 技術
 ### 言語
-Java | JavaScript | Kotlin
+Java | JavaScript | Kotlin | Python
 
 
 ### フレームワーク等
